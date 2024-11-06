@@ -1,2 +1,2 @@
 Hola mundo!
-//Esto lo escribi en github
+//Esto lo escribí en github
