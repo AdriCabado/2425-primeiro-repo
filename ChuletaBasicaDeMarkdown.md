@@ -1,6 +1,6 @@
 # Chuleta basica de Markdown
 
-## **Marcado**
+**Marcado**.
 
 *Cursiva*.
 
@@ -10,10 +10,11 @@ Esto es una prueba de texto.
 
 - Lista desordena
 - Sigo con la lista
+- Fin
 
 1. Lista ordenada
 2. Sigo
-3. Y ya
+3. Fin
 
 ---
 
