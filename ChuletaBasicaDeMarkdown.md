@@ -8,7 +8,11 @@
 
 *Cursiva*.
 
-Esto es una prueba de texto. No te olvide de poner el punto al final.
+Esto es una prueba de texto en MarkDown, con "shift + alt + a" 
+puedes comentar/descomentar <br> varias lineas de codigo en VSC. No te olvides de poner el punto al final del paragrafo en MarkDown.
+<!-- VSC ya se encarga de saber cual el metodo de comentado en cada
+archivo cuando haces "shift + alt + a",
+arriba utilice <br> para hacer un salto de linea -->
 
 >codigo
 
