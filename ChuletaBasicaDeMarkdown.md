@@ -20,6 +20,8 @@ Esto es una prueba de texto. No te olvide de poner el punto al final.
 2. Sigo
 3. Fin
 
+~~algo tachado~~
+
 ---
 
 Lineas por debajo o arriba
